@@ -1,0 +1,148 @@
+/* Resetting browser css */
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f0f0f0;
+}
+img{
+    width: 100%;
+    height: auto;
+    margin-bottom: -4px;
+}
+
+
+.main{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background: #f0f0f0;
+}
+
+.outer-container{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    width: 85%;
+    height: 100%;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: #f2e9e2;
+    box-shadow: -10px 10px 30px -20px grey ;
+
+}
+.container{
+    display: flex;
+    position: relative;
+    margin: 200px 200px;
+    width: 50%;
+    height: auto;
+    border-radius: 2%;
+    background: #ffffff;
+    overflow: hidden;
+}
+
+.img-container{   
+    width: 50%;
+    height: auto;
+    overflow: hidden;
+}
+
+.inner-container{
+    position: relative;
+    flex-direction: column;
+    padding: 0px 30px;
+    padding-top: 30px;
+    margin-right: 30px;
+    text-align: left;
+    width: 50%;
+    height: auto;
+    
+}
+
+/* text design */
+
+#description{
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px 0;
+    color: #bfc0c4;
+    font-weight: 600;
+    line-height: 1.5em;
+}
+
+#heading-title{
+    font-family: 'Fraunces', serif;
+    
+}
+
+#product-name{
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: 500;
+    margin: 15px 0px;
+    color: #bfc0c4;
+}
+
+#price{
+    font-family: 'Fraunces', serif;
+    font-size: 200%;
+    padding: 0px 0px;
+}
+#price2{
+    position: relative;
+    color:  #bfc0c4;
+    font-weight: 600;
+    text-decoration: line-through;
+    margin: 10px 10px;
+    padding: 0px 0px;
+}
+
+span{
+    color: #3d8168;
+}
+
+/* button styling */
+
+a{
+    text-decoration: none;
+}
+
+#addToCartBtn{
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+    padding: 15px 0px;
+    background-color: #3d8168;
+    color: white;
+    border-radius: 10px;
+    border-style: none;
+    margin: 30px 0px;
+}
+#addToCartBtn:hover{
+    background-color: #1a4031;
+    cursor: pointer;
+}
+
+.attribution{
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 100px;
+}
+
+/* Phone screen adjustments */
+
+/* @media screen and (max-width: 375px) {
+
+
+} */
