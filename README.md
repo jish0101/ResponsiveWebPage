@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://jish0101.github.io/ResponsiveWebPage/)
 
 ### Built with
 
