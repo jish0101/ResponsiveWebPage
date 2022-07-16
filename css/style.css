@@ -29,7 +29,7 @@
 
 .img-container{
 
-    background: url(./images/image-product-desktop.jpg);
+    background: url(../images/image-product-desktop.jpg);
     width: 50%;
     background-size: cover;
     background-position: center;
