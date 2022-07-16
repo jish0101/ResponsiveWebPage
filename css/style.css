@@ -141,7 +141,7 @@ a{
         max-width: 100%;
     }
     .img-container{   
-        content: url(./images/image-product-mobile.jpg);
+        content: url(../images/image-product-mobile.jpg);
         width: 100%;
         overflow: hidden;
     }
