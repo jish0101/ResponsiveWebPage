@@ -29,7 +29,7 @@
 
 .img-container{
 
-    background: url(/images/image-product-desktop.jpg);
+    background: url(./images/image-product-desktop.jpg);
     width: 50%;
     background-size: cover;
     background-position: center;
@@ -141,7 +141,7 @@ a{
         max-width: 100%;
     }
     .img-container{   
-        content: url(/images/image-product-mobile.jpg);
+        content: url(./images/image-product-mobile.jpg);
         width: 100%;
         overflow: hidden;
     }
