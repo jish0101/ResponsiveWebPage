@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://jish0101.github.io/ResponsiveWebPage/)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: ()
+- Live Site URL: (https://jish0101.github.io/ResponsiveWebPage/)
 
 ### Built with
 
