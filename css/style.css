@@ -21,7 +21,7 @@
     position: relative;
     margin: 11em 10em;
     margin-bottom: 3em; 
-    max-width: 40%;
+    max-width: 35em;
     border-radius: 2%;
     background: #ffffff;
     overflow: hidden;       
@@ -121,7 +121,7 @@ a{
 
 /* Phone screen adjustments */
 
-@media screen and (max-width: 1015px) {
+@media screen and (max-width: 850px) {
 
     .outer-container{
         position: relative;
